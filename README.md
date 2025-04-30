@@ -40,3 +40,9 @@ This Flutter-based mobile application is designed to assist farmers and agricult
 #### 📊 Visualize trends using charts.
 #### 🌍 Add support for multi-language UI.
 
+
+
+https://github.com/user-attachments/assets/8ceecb48-6c61-4b8a-bcc0-a898bdd835bc
+
+
+
