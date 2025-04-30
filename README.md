@@ -1,4 +1,4 @@
-#🌾 AI & IoT-Enabled Soil Health Monitoring and Crop/Fertilizer Recommendation System 
+# 🌾 AI & IoT-Enabled Soil Health Monitoring and Crop/Fertilizer Recommendation System 
 This Flutter-based mobile application is designed to assist farmers and agriculturists in making informed decisions about crop selection and fertilizer usage based on soil health parameters. The system leverages IoT sensor data, a Random Forest machine learning model, and rule-based fertilizer recommendations.
 
 ## 📱 Features
@@ -9,31 +9,34 @@ This Flutter-based mobile application is designed to assist farmers and agricult
 🌐 Clean and Intuitive UI – User-friendly interface with dropdowns, buttons, and styled cards.
 📉 Fertilizer Dosage Calculation – Computes the amount of fertilizer required using a fixed formula.
 
-##✅ Prerequisites
-**Ensure you have installed:
-**Flutter SDK
-**Dart (included with Flutter)
-**Git
-**Android Studio or VS Code with Flutter plugin
+## ✅ Prerequisites
+** Ensure you have installed:
+** Flutter SDK
+** Dart (included with Flutter)
+** Git
+** Android Studio or VS Code with Flutter plugin
 
-##📥 Installation
+## 📥 Installation
 1. Clone the repository
-``bash
+
+```bash    
     git clone https://github.com/Akshansh2515/AI-IoT-Enabled-Soil-Health-Monitoring-System.git
     cd AI-IoT-Enabled-Soil-Health-Monitoring-System
+```
 
 2. Install dependencies
-``bash
+```bash
     flutter pub get
+```
 
 3. Run the app
-``bash
+```bash
     flutter run
+```
 
-
-##🧪 Future Enhancements
+## 🧪 Future Enhancements
 **🔌 Integrate with live sensor data using IoT hardware (LoRa + Arduino).
-**☁️ Cloud sync of soil health logs.
-**📊 Visualize trends using charts.
-**🌍 Add support for multi-language UI.
+** ☁️ Cloud sync of soil health logs.
+** 📊 Visualize trends using charts.
+** 🌍 Add support for multi-language UI.
 
